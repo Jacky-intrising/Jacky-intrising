@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jacky-intrising
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in golang
 - 📫 How to reach me jacky@intrising.com.tw
 
 <!---
